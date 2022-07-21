@@ -1,0 +1,18 @@
+h3 {
+    font-size: 40px;
+    color: chartreuse;
+}
+h4 {
+    background-color: darkmagenta;
+    font-style: italic;
+    text-align: center;
+}
+img {
+    padding: 5px;
+    margin: 5px;
+    COLOR: #1fbcbc;
+    background-color: gold;
+}
+img {
+    width: 200px;
+}
